@@ -1,0 +1,44 @@
+div#main{
+background-color: #FAF2DA;
+height: 235vh;
+}
+div#box1{
+padding: 20px;
+position: relative;
+top: 5vh;
+left: 14vw;								
+width: 70vw;
+height: 210vh;
+border: 1px solid black;
+border-radius: 2%;
+background-color: white;
+backgroud-size:cover;
+}
+div#box1 h1{
+	text-align: center;
+	font-weight: lighter;
+}
+div#note{
+font-size: 20px;
+font-weight: lighter;
+}
+
+#btn1{
+color: white;
+background-color: red;
+width: 8vw;
+height: 4vh;
+font-size: 17px;
+border: none;
+}
+
+#btn2{
+color: white;
+background-color: red;
+width: 14vw;
+height: 4vh;
+position: relative;
+left: 27vw;
+font-size: 18px;
+border: none;
+}
